@@ -14242,55 +14242,6 @@
     {
       "wall_type": "WALL_DIRECTIONAL_N",
       "position": [
-        -600,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -625,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -650,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -675,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -575,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -700,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -725,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
         -775,
         -975
       ]
@@ -14306,13 +14257,6 @@
       "wall_type": "WALL_DIRECTIONAL_N",
       "position": [
         -825,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -750,
         -975
       ]
     },
@@ -35726,13 +35670,6 @@
       "wall_type": "WALL_DIRECTIONAL_E",
       "position": [
         -50,
-        -875
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -50,
         -850
       ]
     },
@@ -35776,41 +35713,6 @@
       "position": [
         50,
         -800
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        50,
-        -775
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        50,
-        -750
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        50,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        50,
-        -700
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        50,
-        -675
       ]
     },
     {
@@ -39633,6 +39535,2295 @@
       "position": [
         9175,
         2600
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        0,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -25,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -50,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -75,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -100,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -100,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -75,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -50,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -25,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        0,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        75,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        75,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        100,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        125,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        150,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        175,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        200,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        225,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        250,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        275,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        300,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        325,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        325,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        300,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        275,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        250,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        225,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        200,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        175,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        150,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        125,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        100,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_SIDE",
+      "position": [
+        -75,
+        -1175
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_SIDE",
+      "position": [
+        75,
+        -1175
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_SIDE",
+      "position": [
+        175,
+        -1175
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_SIDE",
+      "position": [
+        250,
+        -1175
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_SIDE",
+      "position": [
+        -100,
+        -1175
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL",
+      "position": [
+        -100,
+        -1300
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL",
+      "position": [
+        -100,
+        -1375
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL",
+      "position": [
+        -100,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL",
+      "position": [
+        300,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL",
+      "position": [
+        300,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL",
+      "position": [
+        300,
+        -1300
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_SIDE",
+      "position": [
+        -100,
+        -1500
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_SIDE",
+      "position": [
+        0,
+        -1500
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_SIDE",
+      "position": [
+        100,
+        -1500
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_SIDE",
+      "position": [
+        200,
+        -1500
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_SIDE",
+      "position": [
+        250,
+        -1500
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -50,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -25,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        0,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        25,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        50,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        75,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        100,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        125,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        150,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        175,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        200,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        225,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        250,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        275,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        225,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        200,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        175,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        150,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        125,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        100,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        75,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        50,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        25,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        0,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -25,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -50,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -50,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        -25,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        0,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        25,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        50,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        75,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        100,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        125,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        150,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        175,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        200,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        225,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_BOOKSHELF_1",
+      "position": [
+        -50,
+        -1375
+      ]
+    },
+    {
+      "wall_type": "BENCH_MIRROR",
+      "position": [
+        0,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        250,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        275,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        275,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL",
+      "position": [
+        250,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_WINDOW_OPEN",
+      "position": [
+        50,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "CHAIR_LEFT",
+      "position": [
+        250,
+        -1325
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_TABLE",
+      "position": [
+        150,
+        -1300
+      ]
+    },
+    {
+      "wall_type": "CHAIR_DOWN",
+      "position": [
+        150,
+        -1350
+      ]
+    },
+    {
+      "wall_type": "CHAIR_DOWN",
+      "position": [
+        200,
+        -1350
+      ]
+    },
+    {
+      "wall_type": "CHAIR_UP",
+      "position": [
+        200,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "CHAIR_UP",
+      "position": [
+        150,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "BASKET_EMPTY",
+      "position": [
+        250,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_OVEN",
+      "position": [
+        200,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_WINDOW_OPEN",
+      "position": [
+        175,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "CHAIR_RIGHT",
+      "position": [
+        100,
+        -1325
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_WINDOW_PLANTER",
+      "position": [
+        -50,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_WINDOW_PLANTER",
+      "position": [
+        125,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_WINDOW_PLANTER",
+      "position": [
+        250,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "SHELF_EMPTY",
+      "position": [
+        150,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "BASKET_EMPTY",
+      "position": [
+        250,
+        -1375
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -100,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -125,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -225,
+        -1250
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -375,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        500,
+        -1050
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        400,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        475,
+        -1350
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        400,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        250,
+        -1025
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -225,
+        -1050
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -375,
+        -1050
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -350,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -425,
+        -1325
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -425,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -275,
+        -1175
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -225,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -200,
+        -1325
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -150,
+        -1250
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        350,
+        -950
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        475,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        475,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        550,
+        -1250
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        450,
+        -1225
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -400,
+        -1075
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -425,
+        -1175
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -325,
+        -1300
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -250,
+        -1350
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -150,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -200,
+        -1200
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -225,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -325,
+        -1025
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -150,
+        -1025
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -25,
+        -1025
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        100,
+        -1025
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        225,
+        -950
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        350,
+        -1075
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        425,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        475,
+        -1200
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        500,
+        -1200
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        500,
+        -1325
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        400,
+        -1375
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        475,
+        -950
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        350,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        350,
+        -1175
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -400,
+        -1225
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        350,
+        -1050
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        525,
+        -950
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        500,
+        -1175
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        500,
+        -1300
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -275,
+        -1025
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -375,
+        -1200
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -925,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -900,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -875,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -850,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -825,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -800,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -775,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -750,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -725,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -700,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_NW",
+      "position": [
+        -950,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_NE",
+      "position": [
+        -675,
+        -1725
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -675,
+        -1700
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -675,
+        -1675
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -675,
+        -1650
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -675,
+        -1625
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -675,
+        -1600
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -675,
+        -1575
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -950,
+        -1700
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -950,
+        -1675
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -950,
+        -1650
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -950,
+        -1625
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -950,
+        -1600
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -950,
+        -1575
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_SW",
+      "position": [
+        -950,
+        -1550
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -925,
+        -1550
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -900,
+        -1550
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -875,
+        -1550
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -750,
+        -1550
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -725,
+        -1550
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -700,
+        -1550
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_SE",
+      "position": [
+        -675,
+        -1550
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_POINTY_SE",
+      "position": [
+        -775,
+        -1550
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_POINTY_SW",
+      "position": [
+        -850,
+        -1550
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_POINTY_NE",
+      "position": [
+        -775,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_NE",
+      "position": [
+        -625,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -750,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -725,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -700,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -675,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -650,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -850,
+        -1525
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -850,
+        -1500
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -850,
+        -1475
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -850,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -850,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -775,
+        -1525
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -775,
+        -1500
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -625,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -625,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "WELL",
+      "position": [
+        -925,
+        -1700
+      ]
+    },
+    {
+      "wall_type": "ALTAR",
+      "position": [
+        -800,
+        -1700
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -625,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -625,
+        -1375
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -625,
+        -1350
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -625,
+        -1325
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -625,
+        -1300
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_POINTY_NE",
+      "position": [
+        -625,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_NE",
+      "position": [
+        -575,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -600,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -575,
+        -1250
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -575,
+        -1225
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -575,
+        -1200
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -575,
+        -1175
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -575,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -575,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -575,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_SW",
+      "position": [
+        -850,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -825,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -800,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -775,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -750,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -725,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_POINTY_SW",
+      "position": [
+        -700,
+        -1400
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -700,
+        -1375
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -700,
+        -1350
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -700,
+        -1325
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -700,
+        -1300
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -750,
+        -1250
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -750,
+        -1225
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -750,
+        -1200
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -750,
+        -1175
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -750,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -750,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -750,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -750,
+        -1075
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -750,
+        -1050
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_POINTY_NW",
+      "position": [
+        -700,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_N",
+      "position": [
+        -725,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_NW",
+      "position": [
+        -750,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_POINTY_NW",
+      "position": [
+        -750,
+        -975
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_POINTY_NE",
+      "position": [
+        -575,
+        -975
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -750,
+        -1025
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_W",
+      "position": [
+        -750,
+        -1000
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -575,
+        -1075
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -575,
+        -1050
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -575,
+        -1025
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -575,
+        -1000
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -50,
+        -875
+      ]
+    },
+    {
+      "wall_type": "BOX_EMPTY",
+      "position": [
+        25,
+        -825
+      ]
+    },
+    {
+      "wall_type": "BOX_FRUIT",
+      "position": [
+        -25,
+        -825
+      ]
+    },
+    {
+      "wall_type": "BOX_EMPTY",
+      "position": [
+        25,
+        -875
+      ]
+    },
+    {
+      "wall_type": "BOX_FISH",
+      "position": [
+        -25,
+        -875
+      ]
+    },
+    {
+      "wall_type": "BOX_FISH",
+      "position": [
+        -25,
+        -900
+      ]
+    },
+    {
+      "wall_type": "BOX_EMPTY",
+      "position": [
+        75,
+        -850
+      ]
+    },
+    {
+      "wall_type": "BASKET_FRUIT",
+      "position": [
+        -25,
+        -925
+      ]
+    },
+    {
+      "wall_type": "BASKET_FRUIT",
+      "position": [
+        25,
+        -900
+      ]
+    },
+    {
+      "wall_type": "BASKET_FRUIT",
+      "position": [
+        75,
+        -800
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_1",
+      "position": [
+        225,
+        -450
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_1",
+      "position": [
+        325,
+        -450
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_2",
+      "position": [
+        225,
+        -525
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_2",
+      "position": [
+        325,
+        -525
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_3",
+      "position": [
+        425,
+        -500
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_3",
+      "position": [
+        125,
+        -500
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -1000,
+        -1775
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -950,
+        -1775
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -900,
+        -1775
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -875,
+        -1775
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -850,
+        -1775
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -800,
+        -1775
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -750,
+        -1775
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -700,
+        -1775
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -650,
+        -1775
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -1000,
+        -1825
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -1000,
+        -1875
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -1000,
+        -1925
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -1000,
+        -1975
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -1000,
+        -2025
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -1000,
+        -2075
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -950,
+        -1825
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -950,
+        -1875
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -950,
+        -1925
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -950,
+        -1975
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -950,
+        -2025
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -950,
+        -2075
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -900,
+        -1825
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -900,
+        -1875
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -900,
+        -1925
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -900,
+        -1975
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -900,
+        -2025
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -900,
+        -2075
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -850,
+        -2075
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -850,
+        -2025
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -850,
+        -1975
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -850,
+        -1925
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -850,
+        -1875
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -850,
+        -1825
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -775,
+        -1825
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -800,
+        -1825
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -800,
+        -1875
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -800,
+        -1925
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -800,
+        -1950
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -800,
+        -2000
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -800,
+        -2025
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -800,
+        -2050
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -800,
+        -2075
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -750,
+        -2075
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -750,
+        -2025
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -750,
+        -1975
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -750,
+        -1900
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -750,
+        -1925
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -750,
+        -1850
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -725,
+        -1825
+      ]
+    },
+    {
+      "wall_type": "WALL_WATER",
+      "position": [
+        -700,
+        -1825
+      ]
+    },
+    {
+      "wall_type": "WALL_STONEBRIDGE_LEFT",
+      "position": [
+        -650,
+        -2500
+      ]
+    },
+    {
+      "wall_type": "WALL_STONEBRIDGE_LEFT",
+      "position": [
+        -650,
+        -2375
+      ]
+    },
+    {
+      "wall_type": "WALL_STONEBRIDGE_RIGHT",
+      "position": [
+        -375,
+        -2375
+      ]
+    },
+    {
+      "wall_type": "WALL_STONEBRIDGE_RIGHT",
+      "position": [
+        -375,
+        -2500
       ]
     }
   ],
@@ -75845,6 +78036,5550 @@
       "position": [
         7500,
         550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        50,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        50,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        50,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        225,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -950
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -1000
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -1000
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -1050
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -950
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -1000
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -1050
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -75,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -125,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -175,
+        -1050
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -175,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -200,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -325,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -375,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -350,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -300,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -200,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -150,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -75,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -100,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -75,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -125,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -175,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -225,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -300,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -350,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        0,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        50,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        100,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        225,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        150,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        200,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -1050
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        250,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        200,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        250,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -1000
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        500,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        250,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        200,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        150,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        100,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        50,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        150,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        200,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        250,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        500,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        225,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        225,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        225,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        100,
+        -750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        100,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        150,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        200,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        250,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        250,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        200,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        150,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        150,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        200,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        250,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        500,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        550,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        550,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        500,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        225,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        225,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        225,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        225,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        550,
+        -400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -1050
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -950
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -100,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -100,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -100,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -100,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -100,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -100,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -150,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -150,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -150,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -150,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -150,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -150,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -200,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -200,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -200,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -200,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -200,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -200,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -300,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -300,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -300,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -300,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -300,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -325,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -375,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -350,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -325,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -350,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -350,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -350,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -350,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -400,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -400,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -400,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -400,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -400,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -400,
+        -1150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -400,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -400,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -400,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1050
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -400,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        500,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        550,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        550,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        500,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        500,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        500,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        550,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        550,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        500,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        550,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        550,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        500,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        -50,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        0,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        50,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        100,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        150,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        200,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        250,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        250,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        275,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        250,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        250,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        250,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        250,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        -75,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        -50,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        -50,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        -50,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        -50,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        -50,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        0,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        0,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        0,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        0,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        0,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        50,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        100,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        150,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        200,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        200,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        200,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        200,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        200,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        150,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        150,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        150,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        100,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        100,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        100,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        50,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        50,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        50,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        50,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        100,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE_GRAY",
+      "position": [
+        150,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -675,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -725,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -625,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -625,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -625,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -625,
+        -1150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -675,
+        -1150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -725,
+        -1150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -725,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -725,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -675,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -675,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -675,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -675,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -725,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -725,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -625,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -625,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -675,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -675,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -675,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -675,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -725,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -775,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -825,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -825,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STAIRS",
+      "position": [
+        -825,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -825,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -825,
+        -1650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -825,
+        -1700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -875,
+        -1700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -925,
+        -1700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -925,
+        -1650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -875,
+        -1650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -925,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -875,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -775,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -725,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -725,
+        -1650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -775,
+        -1650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -775,
+        -1700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_SMOOTH",
+      "position": [
+        -725,
+        -1700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -725,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -675,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -625,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        25,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        50,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        350,
+        -750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        175,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        600,
+        -800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        200,
+        -800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        200,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        150,
+        -1000
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        100,
+        -950
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        300,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        300,
+        -900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        700,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        425,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        650,
+        -1000
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        650,
+        -950
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        625,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        625,
+        -900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        475,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        500,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -325,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -325,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -250,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -225,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -125,
+        -1050
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -400,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -375,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -425,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -175,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -125,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -175,
+        -1000
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -75,
+        -1000
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        375,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        325,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
+      "position": [
+        -350,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
+      "position": [
+        -400,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
+      "position": [
+        -375,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
+      "position": [
+        -325,
+        -1425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
+      "position": [
+        -275,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
+      "position": [
+        250,
+        -900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
+      "position": [
+        300,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
+      "position": [
+        350,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        375,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        275,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        -350,
+        -1425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        225,
+        -900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        -350,
+        -1150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        -450,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        300,
+        -1050
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        375,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        -50,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES",
+      "position": [
+        -225,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES",
+      "position": [
+        -125,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES",
+      "position": [
+        425,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES",
+      "position": [
+        600,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES",
+      "position": [
+        150,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES",
+      "position": [
+        625,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES",
+      "position": [
+        675,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES",
+      "position": [
+        50,
+        -475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        50,
+        -500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        500,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        175,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        400,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        -275,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        -425,
+        -1000
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        600,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        450,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_PEPPLES_2",
+      "position": [
+        375,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -375,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -325,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -225,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -175,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -150,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -375,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -325,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -225,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -175,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -150,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -1000,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -950,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -900,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -825,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -850,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -800,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -550,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -525,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -650,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -600,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -625,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -575,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -525,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -475,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -425,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -650,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -400,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -600,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -550,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -500,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -450,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -625,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -625,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -625,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -625,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -575,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -575,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -575,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -575,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -525,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -475,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -425,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -425,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -425,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -425,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -475,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -525,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -525,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -475,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -525,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -475,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -550,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -500,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -450,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        -400,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -700,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -675,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -675,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -675,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -675,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -675,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -675,
+        -2325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -675,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -675,
+        -2275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -700,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -350,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -350,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -350,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -350,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -350,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -350,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -325,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -325,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -325,
+        -2325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -350,
+        -2325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -350,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -350,
+        -2275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -325,
+        -2275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -700,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -700,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -750,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -800,
+        -2225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -800,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -800,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -800,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -800,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -800,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -750,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -800,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -850,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -850,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -850,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -800,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -875,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -925,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -950,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -975,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -975,
+        -2125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -975,
+        -2100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -1000,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -975,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -975,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -950,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -925,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -925,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -925,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -925,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -950,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -950,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -950,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -925,
+        -2075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -875,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -875,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -875,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -850,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -875,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -850,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -850,
+        -2325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -875,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -875,
+        -2325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -700,
+        -2150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -700,
+        -2175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -700,
+        -2200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -750,
+        -2175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -800,
+        -2175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -350,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -325,
+        -2225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -275,
+        -2275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -275,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -275,
+        -2325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -275,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -275,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -300,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -300,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -325,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -325,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -325,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -325,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -300,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -300,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -300,
+        -2550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -275,
+        -2550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -275,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -250,
+        -2525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -250,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -250,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -250,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -275,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -275,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -250,
+        -2425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -250,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -250,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -225,
+        -2375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -225,
+        -2350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -225,
+        -2325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -250,
+        -2275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -200,
+        -2400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -200,
+        -2450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -200,
+        -2475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -200,
+        -2500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -950,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -950,
+        -2250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -950,
+        -2200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -950,
+        -2125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -950,
+        -2150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -875,
+        -2125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -900,
+        -2275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -850,
+        -2275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -850,
+        -2225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -850,
+        -2150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -850,
+        -2175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -825,
+        -2125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -775,
+        -2125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        -725,
+        -2125
       ]
     }
   ],

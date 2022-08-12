@@ -91,10 +91,12 @@ class Main:
         cmd_flags = CommandlineFlags(map_file_name, chosen_hero_id, hero_start_level, start_money, save_file_name)
 
         pygame.init()
+        pygame.mixer.init()
 
         print("Available display modes: " + str(pygame.display.list_modes()))
 
-        self.fullscreen = fullscreen
+        pygame.display.set_caption('2nd Life')
+        self.fullscreen = False
         self.pygame_screen = self.setup_screen()
         images_by_sprite = load_images_by_sprite(ENTITY_SPRITE_INITIALIZERS)
         images_by_ui_sprite = load_images_by_ui_sprite(UI_ICON_SPRITE_PATHS, UI_ICON_SIZE)

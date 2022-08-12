@@ -5,14 +5,39 @@ from pythongame.core.view.image_loading import SpriteSheet, SpriteInitializer
 
 
 def register_walls():
+    _register_plant_tree_palm()
+    _register_plant_tree_fat()
+    _register_home_wall_side()
+    _register_home_wall()
+    _register_home_wall_end1()
+    _register_home_wall_end2()
+    _register_home_wall_bookshelf_1()
+    _register_home_wall_small_well()
+    _register_home_wall_oven()
+    _register_home_wall_table()
+    _register_home_wall_cottage_1()
+    _register_home_wall_cottage_2()
+    _register_home_wall_cottage_3()
+    _register_home_wall_cottage_4()
+    _register_home_wall_cottage_5()
+    _register_home_wall_window_open()
+    _register_home_wall_window_planter()
+    _register_wall_stone_water()
+    _register_wall_water()
     _register_wall()
+    _register_wall_stonebridge_left()
+    _register_wall_stonebridge_right()
     _register_statue()
     _register_directional_walls()
     _register_chairs()
+    _register_patio_table()
+    _register_patio_table_2()
+    _register_patio_table_3()
     _register_altar()
     _register_shelves()
     _register_barrels()
     _register_baskets()
+    _register_boxes()
     _register_stone_crosses()
     _register_signs()
     _register_weapon_rack()
@@ -23,13 +48,211 @@ def register_walls():
     _register_beds()
     _register_pillows()
     _register_decorated_table()
+    
 
+# PLANTS
+
+def _register_plant_tree_fat():
+    sprite = Sprite.PLANT_TREE_FAT
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset.png")
+    original_sprite_size = (32, 62)
+    scaled_sprite_size = (50, 74)
+    indices_by_dir = {Direction.DOWN: [(0, 4.67)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -50))
+    register_wall_data(WallType.PLANT_TREE_FAT, WallData(sprite, (50, 25)))
+
+def _register_plant_tree_palm():
+    sprite = Sprite.PLANT_TREE_PALM
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset.png")
+    original_sprite_size = (65, 110)
+    scaled_sprite_size = (47, 100)
+    indices_by_dir = {Direction.DOWN: [(2.958, 3.8)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (-12, -58))
+    register_wall_data(WallType.PLANT_TREE_PALM, WallData(sprite, (25, 25)))
+
+# WOOD HOUSE
+
+def _register_home_wall():
+    sprite = Sprite.HOME_WALL
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset.png")
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (50, 125)
+    indices_by_dir = {Direction.DOWN: [(15, 0)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, 0))
+    register_wall_data(WallType.HOME_WALL, WallData(sprite, (50, 125)))
+
+def _register_home_wall_side():
+    sprite = Sprite.HOME_WALL_SIDE
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset.png")
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (100, 25)
+    indices_by_dir = {Direction.DOWN: [(15, 3)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, 0))
+    register_wall_data(WallType.HOME_WALL_SIDE, WallData(sprite, (100, 25)))
+
+def _register_home_wall_end1():
+    sprite = Sprite.HOME_WALL_END1
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset.png")
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (50, 50)
+    indices_by_dir = {Direction.DOWN: [(14, 0)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, 0))
+    register_wall_data(WallType.HOME_WALL_END1, WallData(sprite, (50, 50)))
+    
+def _register_home_wall_end2():
+    sprite = Sprite.HOME_WALL_END2
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset.png")
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (50, 50)
+    indices_by_dir = {Direction.DOWN: [(13, 0)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, 0))
+    register_wall_data(WallType.HOME_WALL_END2, WallData(sprite, (50, 50)))
+
+def _register_home_wall_bookshelf_1():
+    sprite = Sprite.HOME_WALL_BOOKSHELF_1
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset.png")
+    original_sprite_size = (32, 62)
+    scaled_sprite_size = (50, 100)
+    indices_by_dir = {Direction.DOWN: [(3, 1.6)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -80))
+    register_wall_data(WallType.HOME_WALL_BOOKSHELF_1, WallData(sprite, (50, 20)))
+
+def _register_home_wall_small_well():
+    sprite = Sprite.HOME_WALL_SMALL_WELL
+    sprite_sheet_tileset1 = SpriteSheet("resources/graphics/human_tileset1.png")
+    original_sprite_size = (32, 72)
+    scaled_sprite_size = (50, 100)
+    indices_by_dir = {Direction.DOWN: [(3, 1.24)]}
+    register_entity_sprite_map(sprite, sprite_sheet_tileset1, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -60))
+    register_wall_data(WallType.HOME_WALL_SMALL_WELL, WallData(sprite, (50, 40)))
+
+def _register_home_wall_oven():
+    sprite = Sprite.HOME_WALL_OVEN
+    sprite_sheet_tileset1 = SpriteSheet("resources/graphics/human_tileset1.png")
+    original_sprite_size = (32, 46)
+    scaled_sprite_size = (50, 70)
+    indices_by_dir = {Direction.DOWN: [(10, 3.85)]}
+    register_entity_sprite_map(sprite, sprite_sheet_tileset1, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -40))
+    register_wall_data(WallType.HOME_WALL_OVEN, WallData(sprite, (50, 30)))
+
+def _register_home_wall_table():
+    sprite = Sprite.HOME_WALL_TABLE
+    sprite_sheet_tileset1 = SpriteSheet("resources/graphics/human_tileset1.png")
+    original_sprite_size = (59, 26)
+    scaled_sprite_size = (100, 50)
+    indices_by_dir = {Direction.DOWN: [(5.5, 13.595)]}
+    register_entity_sprite_map(sprite, sprite_sheet_tileset1, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -18))
+    register_wall_data(WallType.HOME_WALL_TABLE, WallData(sprite, (100, 30)))
+
+# COTTAGE HOME
+
+def _register_home_wall_cottage_1():
+    sprite = Sprite.HOME_WALL_COTTAGE_1
+    sprite_sheet_tileset2 = SpriteSheet("resources/graphics/human_tileset2.png")
+    original_sprite_size = (95, 95)
+    scaled_sprite_size = (100, 80)
+    indices_by_dir = {Direction.DOWN: [(0, 4.45)]}
+    register_entity_sprite_map(sprite, sprite_sheet_tileset2, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -34))
+    register_wall_data(WallType.HOME_WALL_COTTAGE_1, WallData(sprite, (100, 45)))
+
+def _register_home_wall_cottage_2():
+    sprite = Sprite.HOME_WALL_COTTAGE_2
+    sprite_sheet_tileset2 = SpriteSheet("resources/graphics/human_tileset2.png")
+    original_sprite_size = (130, 95)
+    scaled_sprite_size = (100, 80)
+    indices_by_dir = {Direction.DOWN: [(0, 3.4)]}
+    register_entity_sprite_map(sprite, sprite_sheet_tileset2, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -34))
+    register_wall_data(WallType.HOME_WALL_COTTAGE_2, WallData(sprite, (100, 45)))
+
+def _register_home_wall_cottage_3():
+    sprite = Sprite.HOME_WALL_COTTAGE_3
+    sprite_sheet_tileset2 = SpriteSheet("resources/graphics/human_tileset2.png")
+    original_sprite_size = (95, 95)
+    scaled_sprite_size = (100, 80)
+    indices_by_dir = {Direction.DOWN: [(1, 4.45)]}
+    register_entity_sprite_map(sprite, sprite_sheet_tileset2, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -34))
+    register_wall_data(WallType.HOME_WALL_COTTAGE_3, WallData(sprite, (100, 45)))
+
+def _register_home_wall_cottage_4():
+    sprite = Sprite.HOME_WALL_COTTAGE_4
+    sprite_sheet_tileset2 = SpriteSheet("resources/graphics/human_tileset2.png")
+    original_sprite_size = (95, 95)
+    scaled_sprite_size = (100, 80)
+    indices_by_dir = {Direction.DOWN: [(1.68, 2.7)]}
+    register_entity_sprite_map(sprite, sprite_sheet_tileset2, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -34))
+    register_wall_data(WallType.HOME_WALL_COTTAGE_4, WallData(sprite, (0, 0)))
+
+def _register_home_wall_cottage_5():
+    sprite = Sprite.HOME_WALL_COTTAGE_5
+    sprite_sheet_tileset2 = SpriteSheet("resources/graphics/human_tileset2.png")
+    original_sprite_size = (45, 85)
+    scaled_sprite_size = (70, 80)
+    indices_by_dir = {Direction.DOWN: [(2.5, 5 )]}
+    register_entity_sprite_map(sprite, sprite_sheet_tileset2, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -34))
+    register_wall_data(WallType.HOME_WALL_COTTAGE_5, WallData(sprite, (100, 45)))
+
+# WINDOWS
+
+def _register_home_wall_window_open():
+    sprite = Sprite.HOME_WALL_WINDOW_OPEN
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset.png")
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (35, 40)
+    indices_by_dir = {Direction.DOWN: [(3, 5)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -50))
+    register_wall_data(WallType.HOME_WALL_WINDOW_OPEN, WallData(sprite, (0, 0)))
+
+def _register_home_wall_window_planter():
+    sprite = Sprite.HOME_WALL_WINDOW_PLANTER
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset.png")
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (35, 40)
+    indices_by_dir = {Direction.DOWN: [(5, 5)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -50))
+    register_wall_data(WallType.HOME_WALL_WINDOW_PLANTER, WallData(sprite, (0, 0)))
+
+    # DOOR 
+
+    # FRAMED PICTURES
+
+    #CHIMNEY
+
+    #SECRET GRAVE WITH ELDER WAND FOR ENDGAME MWAHAHAHA
+
+# ELVEN CASTLE
+
+def _register_wall_stone_water():
+    sprite = Sprite.WALL_STONE_WATER
+    sprite_sheet = SpriteSheet("resources/graphics/human_material4.png")
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (50, 50)
+    indices_by_dir = {Direction.DOWN: [(0, 9)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, 0))
+    register_wall_data(WallType.WALL_STONE_WATER, WallData(sprite, (50, 50)))
 
 def _register_wall():
-    size = (25, 25)
+    size = (26, 26)
     sprite = Sprite.WALL
     sprite_sheet = SpriteSheet("resources/graphics/stone_tile.png")
-    original_sprite_size = (410, 404)
+    original_sprite_size = (300, 300)
     scaled_sprite_size = (size[0] - 1, size[1] - 1)
     indices_by_dir = {
         Direction.DOWN: [(0, 0)]
@@ -38,6 +261,29 @@ def _register_wall():
                                (1, 1))
     register_wall_data(WallType.WALL, WallData(sprite, size))
 
+# STONE BRIDGE
+
+def _register_wall_stonebridge_left():
+    sprite = Sprite.WALL_STONEBRIDGE_LEFT
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset1.png")
+    original_sprite_size = (32, 120)
+    scaled_sprite_size = (30, 175)
+    indices_by_dir = {Direction.DOWN: [(0, 2.15)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -20))
+    register_wall_data(WallType.WALL_STONEBRIDGE_LEFT, WallData(sprite, (30, 155)))
+
+def _register_wall_stonebridge_right():
+    sprite = Sprite.WALL_STONEBRIDGE_RIGHT
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset1.png")
+    original_sprite_size = (32, 120)
+    scaled_sprite_size = (30, 175)
+    indices_by_dir = {Direction.DOWN: [(2.08, 2.15)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -20))
+    register_wall_data(WallType.WALL_STONEBRIDGE_RIGHT, WallData(sprite, (30, 155)))
+
+# DIRECTIONAL WALLS
 
 def _register_directional_walls():
     _register_directional_wall(WallType.WALL_DIRECTIONAL_N, Sprite.WALL_DIRECTIONAL_N,
@@ -72,6 +318,7 @@ def _register_directional_wall(wall_type, sprite, sprite_sheet_path, sprite_shee
         {Direction.DOWN: [sprite_sheet_index]}, (0, 0))
     register_wall_data(wall_type, WallData(sprite, (25, 25)))
 
+# STATUE
 
 def _register_statue():
     sprite = Sprite.WALL_STATUE
@@ -83,6 +330,7 @@ def _register_statue():
                                indices_by_dir, (-4, -54))
     register_wall_data(WallType.STATUE, WallData(sprite, (42, 46)))
 
+# STONE CROSSES
 
 def _register_stone_crosses():
     sprites = [Sprite.WALL_STONE_CROSS_FLOWERS]
@@ -96,6 +344,34 @@ def _register_stone_crosses():
                                    {Direction.DOWN: [indices[i]]}, (-7, -54))
         register_wall_data(wall_types[i], WallData(sprites[i], (42, 39)))
 
+# TABLES
+
+def _register_patio_table():
+    sprite = Sprite.WALL_PATIO_TABLE
+    sprite_sheet = SpriteSheet("resources/graphics/town2.png")
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (50, 50)
+    indices_by_dir = {Direction.DOWN: [(4, 6.5)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size, indices_by_dir, (0, -30))
+    register_wall_data(WallType.PATIO_TABLE, WallData(sprite, (50, 20))) 
+
+def _register_patio_table_2():
+    sprite = Sprite.WALL_PATIO_TABLE_2
+    sprite_sheet = SpriteSheet("resources/graphics/town2.png")
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (50, 50)
+    indices_by_dir = {Direction.DOWN: [(5, 6.5)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size, indices_by_dir, (0, -30))
+    register_wall_data(WallType.PATIO_TABLE_2, WallData(sprite, (50, 20))) 
+
+def _register_patio_table_3():
+    sprite = Sprite.WALL_PATIO_TABLE_3
+    sprite_sheet = SpriteSheet("resources/graphics/town2.png")
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (50, 50)
+    indices_by_dir = {Direction.DOWN: [(3, 6.5)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size, indices_by_dir, (0, -30))
+    register_wall_data(WallType.PATIO_TABLE_3, WallData(sprite, (50, 20))) 
 
 def _register_altar():
     sprite = Sprite.WALL_ALTAR
@@ -106,6 +382,7 @@ def _register_altar():
     register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size, indices_by_dir, (0, -13))
     register_wall_data(WallType.ALTAR, WallData(sprite, (100, 25)))  # table is roughly 13px tall
 
+# CHAIRS
 
 def _register_chairs():
     sprites = [Sprite.WALL_CHAIR_DOWN, Sprite.WALL_CHAIR_UP, Sprite.WALL_CHAIR_RIGHT, Sprite.WALL_CHAIR_LEFT]
@@ -154,6 +431,18 @@ def _register_baskets():
     wall_types = [WallType.BASKET_EMPTY, WallType.BASKET_FRUIT]
     sprite_sheet = SpriteSheet("resources/graphics/human_tileset.png")
     indices = [(4, 15), (5, 15)]
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (50, 50)
+    for i in range(len(sprites)):
+        register_entity_sprite_map(sprites[i], sprite_sheet, original_sprite_size, scaled_sprite_size,
+                                   {Direction.DOWN: [indices[i]]}, (0, -25))
+        register_wall_data(wall_types[i], WallData(sprites[i], (50, 25)))
+
+def _register_boxes():
+    sprites = [Sprite.WALL_BOX_EMPTY, Sprite.WALL_BOX_FRUIT, Sprite.WALL_BOX_FISH]
+    wall_types = [WallType.BOX_EMPTY, WallType.BOX_FRUIT, WallType.BOX_FISH]
+    sprite_sheet = SpriteSheet("resources/graphics/human_tileset.png")
+    indices = [(9, 4), (10, 4), (9, 5)]
     original_sprite_size = (32, 32)
     scaled_sprite_size = (50, 50)
     for i in range(len(sprites)):
@@ -240,3 +529,15 @@ def _register_decorated_table():
                                        SpriteInitializer("resources/graphics/wall_table_candles.png", (100, 75)),
                                        (-5, -35))
     register_wall_data(WallType.DECORATED_TABLE, WallData(Sprite.WALL_DECORATED_TABLE, (90, 40)))
+
+# ELEMENTS
+
+def _register_wall_water():
+    sprite = Sprite.WALL_WATER
+    sprite_sheet = SpriteSheet("resources/graphics/human_material4.png")
+    original_sprite_size = (32, 32)
+    scaled_sprite_size = (50, 50)
+    indices_by_dir = {Direction.DOWN: [(1, 0)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, 0))
+    register_wall_data(WallType.WALL_WATER, WallData(sprite, (50, 50)))

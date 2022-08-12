@@ -4,6 +4,7 @@ import argparse
 
 from pythongame import main
 
+
 parser = argparse.ArgumentParser()
 parser.add_argument('--map')
 parser.add_argument('--hero')

@@ -13,3 +13,4 @@ def register_chest_entity():
     indices_by_dir = {Direction.DOWN: [(9, 3)]}
     register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
                                indices_by_dir, (-6, -33))
+#create box with discoverable item

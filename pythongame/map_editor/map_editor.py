@@ -51,9 +51,28 @@ MISC_ENTITIES: List[MapEditorWorldEntity] = \
         MapEditorWorldEntity.player(),
         MapEditorWorldEntity.chest(),
         MapEditorWorldEntity.money(1),
-        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_STONE),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_SIDEWALK),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_STREET_LANES),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_STONEBRIDGE),
         MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_STONE_GRAY),
-        MapEditorWorldEntity.decoration(Sprite.DECORATION_PLANT),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_STONE),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_WATER),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS_WATER_EDGE_LEFTC),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS_WATER_EDGE_RIGHTC),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS_EDGE),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS_EDGE_2),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_PEPPLES),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_PEPPLES_2),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_STAIRS),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_SMOOTH),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_MOUNTAIN),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_BOXES1),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_BOXES2),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_BOXES3),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_BOXES4),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_BOXES5),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_BOXES6),
         MapEditorWorldEntity.shrine(),
         MapEditorWorldEntity.dungeon_entrance()
     ] + \
@@ -126,6 +145,7 @@ class MapEditor:
             self.grid = Grid.create_from_rects(grid_size, [])
 
         pygame.init()
+        pygame.mixer.init()
 
         pygame_screen = pygame.display.set_mode(SCREEN_SIZE)
         images_by_sprite = load_images_by_sprite(ENTITY_SPRITE_INITIALIZERS)

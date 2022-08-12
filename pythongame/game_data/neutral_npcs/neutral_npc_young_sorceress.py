@@ -66,7 +66,7 @@ def register_young_sorceress_npc():
         quest_item_type=ItemType.QUEST_FROG,
         custom_options=[],
         dialog_before_quest="",
-        dialog_give_quest="Hey you! Have you seen my pet frog? I bet it was that old green mean goblin king that took "
+        dialog_give_quest="Hey you! Have you seen my pet frog? I bet it was that old Goblin King Isis that took "
                           "it!",
         dialog_during_quest="Hi friend! Any luck?",
         dialog_after_completed="Thank you for helping me!",
