@@ -41825,6 +41825,13 @@
         -375,
         -2500
       ]
+    },
+    {
+      "wall_type": "WALL_WATERTOWER",
+      "position": [
+        475,
+        -1500
+      ]
     }
   ],
   "entire_world_area": [

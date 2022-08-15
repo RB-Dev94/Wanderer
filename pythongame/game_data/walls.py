@@ -22,6 +22,7 @@ def register_walls():
     _register_home_wall_cottage_5()
     _register_home_wall_window_open()
     _register_home_wall_window_planter()
+    _register_wall_watertower()
     _register_wall_stone_water()
     _register_wall_water()
     _register_wall()
@@ -29,11 +30,18 @@ def register_walls():
     _register_wall_stonebridge_right()
     _register_statue()
     _register_directional_walls()
-    _register_chairs()
     _register_patio_table()
     _register_patio_table_2()
     _register_patio_table_3()
     _register_altar()
+    _register_patio_chair_1()
+    _register_patio_chair_2()
+    _register_patio_chair_3()
+    _register_chair_black_1()
+    _register_chair_black_2()
+    _register_chair_black_3()
+    _register_chair_black_4()
+    _register_chairs()
     _register_shelves()
     _register_barrels()
     _register_baskets()
@@ -236,6 +244,18 @@ def _register_home_wall_window_planter():
 
     #SECRET GRAVE WITH ELDER WAND FOR ENDGAME MWAHAHAHA
 
+# WATER TOWER
+
+def _register_wall_watertower():
+    sprite = Sprite.WALL_WATERTOWER
+    sprite_sheet = SpriteSheet("resources/graphics/town3.png")
+    original_sprite_size = (52, 92)
+    scaled_sprite_size = (100, 140)
+    indices_by_dir = {Direction.DOWN: [(3.8, 3.2)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -90))
+    register_wall_data(WallType.WALL_WATERTOWER, WallData(sprite, (100, 30)))
+
 # ELVEN CASTLE
 
 def _register_wall_stone_water():
@@ -383,6 +403,69 @@ def _register_altar():
     register_wall_data(WallType.ALTAR, WallData(sprite, (100, 25)))  # table is roughly 13px tall
 
 # CHAIRS
+
+def _register_patio_chair_1():
+    sprite = Sprite.WALL_PATIO_CHAIR_1
+    sprite_sheet = SpriteSheet("resources/graphics/town2.png")
+    original_sprite_size = (16, 42)
+    scaled_sprite_size = (20, 50)
+    indices_by_dir = {Direction.DOWN: [(10.1, 4)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size, indices_by_dir, (0, -30))
+    register_wall_data(WallType.PATIO_CHAIR_1, WallData(sprite, (20, 20))) 
+
+def _register_patio_chair_2():
+    sprite = Sprite.WALL_PATIO_CHAIR_2
+    sprite_sheet = SpriteSheet("resources/graphics/town2.png")
+    original_sprite_size = (16, 42)
+    scaled_sprite_size = (20, 50)
+    indices_by_dir = {Direction.DOWN: [(11, 4)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size, indices_by_dir, (0, -30))
+    register_wall_data(WallType.PATIO_CHAIR_2, WallData(sprite, (20, 20))) 
+
+def _register_patio_chair_3():
+    sprite = Sprite.WALL_PATIO_CHAIR_3
+    sprite_sheet = SpriteSheet("resources/graphics/town2.png")
+    original_sprite_size = (16, 42)
+    scaled_sprite_size = (20, 50)
+    indices_by_dir = {Direction.DOWN: [(9, 4)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size, indices_by_dir, (0, -30))
+    register_wall_data(WallType.PATIO_CHAIR_3, WallData(sprite, (20, 20)))
+
+def _register_chair_black_1():
+    sprite = Sprite.WALL_CHAIR_BLACK_1
+    sprite_sheet = SpriteSheet("resources/graphics/town2.png")
+    original_sprite_size = (16, 22)
+    scaled_sprite_size = (20, 40)
+    indices_by_dir = {Direction.DOWN: [(7, 8.4)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size, indices_by_dir, (0, -10))
+    register_wall_data(WallType.CHAIR_BLACK_1, WallData(sprite, (20, 30))) 
+
+def _register_chair_black_2():
+    sprite = Sprite.WALL_CHAIR_BLACK_2
+    sprite_sheet = SpriteSheet("resources/graphics/town2.png")
+    original_sprite_size = (16, 22)
+    scaled_sprite_size = (20, 40)
+    indices_by_dir = {Direction.DOWN: [(6, 8.4)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size, indices_by_dir, (0, -10))
+    register_wall_data(WallType.CHAIR_BLACK_2, WallData(sprite, (20, 30)))  
+
+def _register_chair_black_3():
+    sprite = Sprite.WALL_CHAIR_BLACK_3
+    sprite_sheet = SpriteSheet("resources/graphics/town2.png")
+    original_sprite_size = (16, 22)
+    scaled_sprite_size = (25, 40)
+    indices_by_dir = {Direction.DOWN: [(4.1, 8.4)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size, indices_by_dir, (0, -20))
+    register_wall_data(WallType.CHAIR_BLACK_3, WallData(sprite, (25, 20)))
+
+def _register_chair_black_4():
+    sprite = Sprite.WALL_CHAIR_BLACK_4
+    sprite_sheet = SpriteSheet("resources/graphics/town2.png")
+    original_sprite_size = (16, 22)
+    scaled_sprite_size = (25, 40)
+    indices_by_dir = {Direction.DOWN: [(5.075, 8.4)]}
+    register_entity_sprite_map(sprite, sprite_sheet, original_sprite_size, scaled_sprite_size, indices_by_dir, (0, -20))
+    register_wall_data(WallType.CHAIR_BLACK_4, WallData(sprite, (25, 20)))  
 
 def _register_chairs():
     sprites = [Sprite.WALL_CHAIR_DOWN, Sprite.WALL_CHAIR_UP, Sprite.WALL_CHAIR_RIGHT, Sprite.WALL_CHAIR_LEFT]
