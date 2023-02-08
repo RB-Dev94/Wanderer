@@ -2427,6 +2427,13 @@
         5375,
         3050
       ]
+    },
+    {
+      "npc_type": "NEUTRAL_BETHILDA",
+      "position": [
+        0,
+        -1300
+      ]
     }
   ],
   "walls": [
@@ -14082,13 +14089,6 @@
       "wall_type": "WALL_DIRECTIONAL_E",
       "position": [
         -50,
-        -575
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -50,
         -600
       ]
     },
@@ -14103,119 +14103,7 @@
       "wall_type": "WALL_DIRECTIONAL_E",
       "position": [
         -50,
-        -550
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -50,
         -475
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -50,
-        -950
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -75,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -100,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -125,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -150,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -175,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -200,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -225,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -250,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -350,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -375,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -425,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -450,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -400,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -475,
-        -975
       ]
     },
     {
@@ -14258,251 +14146,6 @@
       "position": [
         -825,
         -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -325,
-        -950
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -325,
-        -925
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -325,
-        -900
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -325,
-        -875
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -325,
-        -850
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -325,
-        -825
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -325,
-        -800
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -325,
-        -775
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -325,
-        -750
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -325,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -325,
-        -700
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -300,
-        -675
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -275,
-        -700
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -275,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -275,
-        -750
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -275,
-        -775
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -275,
-        -800
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -275,
-        -825
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -275,
-        -850
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -275,
-        -875
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -275,
-        -900
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -275,
-        -925
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -275,
-        -950
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -650,
-        -675
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -575,
-        -675
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -575,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -600,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -625,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -650,
-        -725
-      ]
-    },
-    {
-      "wall_type": "ALTAR",
-      "position": [
-        -625,
-        -925
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_NE",
-      "position": [
-        -50,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_NE",
-      "position": [
-        -325,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_NW",
-      "position": [
-        -275,
-        -975
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_POINTY_NE",
-      "position": [
-        -325,
-        -675
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_POINTY_NW",
-      "position": [
-        -275,
-        -675
       ]
     },
     {
@@ -14566,55 +14209,6 @@
       "position": [
         -850,
         175
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -500,
-        -700
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_POINTY_SW",
-      "position": [
-        -500,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_POINTY_NW",
-      "position": [
-        -500,
-        -675
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -525,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -550,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -525,
-        -675
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -550,
-        -675
       ]
     },
     {
@@ -15122,13 +14716,6 @@
       ]
     },
     {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -675,
-        -625
-      ]
-    },
-    {
       "wall_type": "WALL_DIRECTIONAL_E",
       "position": [
         -725,
@@ -15147,48 +14734,6 @@
       "position": [
         -725,
         -475
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -725,
-        -625
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -725,
-        -650
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -675,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -700,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_W",
-      "position": [
-        -675,
-        -650
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_NW",
-      "position": [
-        -675,
-        -675
       ]
     },
     {
@@ -15574,90 +15119,6 @@
       "position": [
         -1000,
         -975
-      ]
-    },
-    {
-      "wall_type": "ALTAR",
-      "position": [
-        -775,
-        -925
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -750,
-        -675
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -775,
-        -675
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -800,
-        -675
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -725,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -750,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -775,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -800,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -825,
-        -700
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_POINTY_SE",
-      "position": [
-        -825,
-        -725
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_POINTY_NE",
-      "position": [
-        -825,
-        -675
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_NE",
-      "position": [
-        -725,
-        -675
       ]
     },
     {
@@ -16442,27 +15903,6 @@
       "position": [
         -700,
         -500
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_POINTY_NW",
-      "position": [
-        -675,
-        -600
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_POINTY_NE",
-      "position": [
-        -725,
-        -600
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -700,
-        -600
       ]
     },
     {
@@ -19359,13 +18799,6 @@
     {
       "wall_type": "WALL_DIRECTIONAL_N",
       "position": [
-        1025,
-        -1275
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
         1050,
         -1275
       ]
@@ -20246,27 +19679,6 @@
       ]
     },
     {
-      "wall_type": "SHELF_HELMETS",
-      "position": [
-        -200,
-        -925
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -625,
-        -675
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -600,
-        -675
-      ]
-    },
-    {
       "wall_type": "BARREL_6",
       "position": [
         -150,
@@ -20278,20 +19690,6 @@
       "position": [
         -100,
         -450
-      ]
-    },
-    {
-      "wall_type": "SHELF_EMPTY",
-      "position": [
-        -625,
-        -625
-      ]
-    },
-    {
-      "wall_type": "BARREL_5",
-      "position": [
-        -800,
-        -625
       ]
     },
     {
@@ -35653,104 +35051,6 @@
       ]
     },
     {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -50,
-        -925
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -50,
-        -900
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -50,
-        -850
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -50,
-        -825
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_POINTY_NE",
-      "position": [
-        -50,
-        -800
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        -25,
-        -800
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        0,
-        -800
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_N",
-      "position": [
-        25,
-        -800
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_NE",
-      "position": [
-        50,
-        -800
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_POINTY_SE",
-      "position": [
-        -50,
-        -650
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        -25,
-        -650
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        0,
-        -650
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_S",
-      "position": [
-        25,
-        -650
-      ]
-    },
-    {
-      "wall_type": "WALL_DIRECTIONAL_SE",
-      "position": [
-        50,
-        -650
-      ]
-    },
-    {
       "wall_type": "WALL_DIRECTIONAL_S",
       "position": [
         1650,
@@ -35954,27 +35254,6 @@
       ]
     },
     {
-      "wall_type": "WEAPON_RACK",
-      "position": [
-        8625,
-        4000
-      ]
-    },
-    {
-      "wall_type": "WEAPON_RACK",
-      "position": [
-        8700,
-        4000
-      ]
-    },
-    {
-      "wall_type": "WEAPON_RACK",
-      "position": [
-        8775,
-        4000
-      ]
-    },
-    {
       "wall_type": "SIGN_LARGE_EMPTY",
       "position": [
         9000,
@@ -36007,20 +35286,6 @@
       "position": [
         2100,
         -1550
-      ]
-    },
-    {
-      "wall_type": "WEAPON_RACK",
-      "position": [
-        275,
-        50
-      ]
-    },
-    {
-      "wall_type": "WEAPON_RACK",
-      "position": [
-        325,
-        50
       ]
     },
     {
@@ -39538,790 +38803,6 @@
       ]
     },
     {
-      "wall_type": "WALL",
-      "position": [
-        0,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -25,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -50,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -75,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -100,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -100,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -75,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -50,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -25,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        0,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        75,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        75,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        100,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        125,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        150,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        175,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        200,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        225,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        250,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        275,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        300,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        325,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        325,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        300,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        275,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        250,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        225,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        200,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        175,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        150,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        125,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        100,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_SIDE",
-      "position": [
-        -75,
-        -1175
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_SIDE",
-      "position": [
-        75,
-        -1175
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_SIDE",
-      "position": [
-        175,
-        -1175
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_SIDE",
-      "position": [
-        250,
-        -1175
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_SIDE",
-      "position": [
-        -100,
-        -1175
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL",
-      "position": [
-        -100,
-        -1300
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL",
-      "position": [
-        -100,
-        -1375
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL",
-      "position": [
-        -100,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL",
-      "position": [
-        300,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL",
-      "position": [
-        300,
-        -1400
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL",
-      "position": [
-        300,
-        -1300
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_SIDE",
-      "position": [
-        -100,
-        -1500
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_SIDE",
-      "position": [
-        0,
-        -1500
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_SIDE",
-      "position": [
-        100,
-        -1500
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_SIDE",
-      "position": [
-        200,
-        -1500
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_SIDE",
-      "position": [
-        250,
-        -1500
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -50,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -25,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        0,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        25,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        50,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        75,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        100,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        125,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        150,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        175,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        200,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        225,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        250,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        275,
-        -1475
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        225,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        200,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        175,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        150,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        125,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        100,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        75,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        50,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        25,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        0,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -25,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -50,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -50,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        -25,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        0,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        25,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        50,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        75,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        100,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        125,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        150,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        175,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        200,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        225,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_BOOKSHELF_1",
-      "position": [
-        -50,
-        -1375
-      ]
-    },
-    {
-      "wall_type": "BENCH_MIRROR",
-      "position": [
-        0,
-        -1400
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        250,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        275,
-        -1450
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        275,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "WALL",
-      "position": [
-        250,
-        -1425
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_WINDOW_OPEN",
-      "position": [
-        50,
-        -1400
-      ]
-    },
-    {
-      "wall_type": "CHAIR_LEFT",
-      "position": [
-        250,
-        -1325
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_TABLE",
-      "position": [
-        150,
-        -1300
-      ]
-    },
-    {
-      "wall_type": "CHAIR_DOWN",
-      "position": [
-        150,
-        -1350
-      ]
-    },
-    {
-      "wall_type": "CHAIR_DOWN",
-      "position": [
-        200,
-        -1350
-      ]
-    },
-    {
-      "wall_type": "CHAIR_UP",
-      "position": [
-        200,
-        -1275
-      ]
-    },
-    {
-      "wall_type": "CHAIR_UP",
-      "position": [
-        150,
-        -1275
-      ]
-    },
-    {
-      "wall_type": "BASKET_EMPTY",
-      "position": [
-        250,
-        -1400
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_OVEN",
-      "position": [
-        200,
-        -1400
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_WINDOW_OPEN",
-      "position": [
-        175,
-        -1400
-      ]
-    },
-    {
-      "wall_type": "CHAIR_RIGHT",
-      "position": [
-        100,
-        -1325
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_WINDOW_PLANTER",
-      "position": [
-        -50,
-        -1100
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_WINDOW_PLANTER",
-      "position": [
-        125,
-        -1100
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_WINDOW_PLANTER",
-      "position": [
-        250,
-        -1100
-      ]
-    },
-    {
-      "wall_type": "SHELF_EMPTY",
-      "position": [
-        150,
-        -1100
-      ]
-    },
-    {
-      "wall_type": "BASKET_EMPTY",
-      "position": [
-        250,
-        -1375
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -100,
-        -1100
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -125,
-        -1150
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -225,
-        -1250
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -375,
-        -1125
-      ]
-    },
-    {
       "wall_type": "PLANT_TREE_FAT",
       "position": [
         500,
@@ -40347,83 +38828,6 @@
       "position": [
         400,
         -1100
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        250,
-        -1025
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -225,
-        -1050
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -375,
-        -1050
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -350,
-        -1275
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -425,
-        -1325
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -425,
-        -1100
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -275,
-        -1175
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -225,
-        -1400
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -200,
-        -1325
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -150,
-        -1250
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        350,
-        -950
       ]
     },
     {
@@ -40457,85 +38861,8 @@
     {
       "wall_type": "PLANT_TREE_PALM",
       "position": [
-        -400,
-        -1075
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
-        -425,
-        -1175
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
-        -325,
-        -1300
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
-        -250,
-        -1350
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
         -150,
         -1400
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
-        -200,
-        -1200
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
-        -225,
-        -1125
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
-        -325,
-        -1025
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
-        -150,
-        -1025
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
-        -25,
-        -1025
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
-        100,
-        -1025
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
-        225,
-        -950
       ]
     },
     {
@@ -40583,13 +38910,6 @@
     {
       "wall_type": "PLANT_TREE_PALM",
       "position": [
-        475,
-        -950
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
         350,
         -1275
       ]
@@ -40604,22 +38924,8 @@
     {
       "wall_type": "PLANT_TREE_FAT",
       "position": [
-        -400,
-        -1225
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
         350,
         -1050
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        525,
-        -950
       ]
     },
     {
@@ -40634,20 +38940,6 @@
       "position": [
         500,
         -1300
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -275,
-        -1025
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_FAT",
-      "position": [
-        -375,
-        -1200
       ]
     },
     {
@@ -41043,13 +39335,6 @@
       ]
     },
     {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -625,
-        -1300
-      ]
-    },
-    {
       "wall_type": "WALL_DIRECTIONAL_POINTY_NE",
       "position": [
         -625,
@@ -41337,13 +39622,6 @@
       ]
     },
     {
-      "wall_type": "WALL_DIRECTIONAL_E",
-      "position": [
-        -50,
-        -875
-      ]
-    },
-    {
       "wall_type": "BOX_EMPTY",
       "position": [
         25,
@@ -41404,48 +39682,6 @@
       "position": [
         75,
         -800
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_1",
-      "position": [
-        225,
-        -450
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_1",
-      "position": [
-        325,
-        -450
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_2",
-      "position": [
-        225,
-        -525
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_2",
-      "position": [
-        325,
-        -525
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_3",
-      "position": [
-        425,
-        -500
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_3",
-      "position": [
-        125,
-        -500
       ]
     },
     {
@@ -41831,6 +40067,496 @@
       "position": [
         475,
         -1500
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        475,
+        -1450
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_E",
+      "position": [
+        -625,
+        -1300
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -550,
+        -1275
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_FAT",
+      "position": [
+        -575,
+        -1300
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9600,
+        -2900
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9450,
+        -2900
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9700,
+        -2900
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9250,
+        -2900
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9250,
+        -2575
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9350,
+        -2575
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9450,
+        -2575
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9550,
+        -2575
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9650,
+        -2575
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9750,
+        -2575
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9800,
+        -2575
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_BED_QUEEN",
+      "position": [
+        9275,
+        -2900
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9250,
+        -2700
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9350,
+        -2700
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9800,
+        -2775
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_BOOKSHELF_1",
+      "position": [
+        9250,
+        -2675
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_BOOKSHELF_1",
+      "position": [
+        9300,
+        -2675
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_BOOKSHELF_1",
+      "position": [
+        9350,
+        -2675
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9800,
+        -2900
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_BATH_SINK",
+      "position": [
+        9850,
+        -2900
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_TABLE",
+      "position": [
+        9675,
+        -2700
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_1",
+      "position": [
+        9650,
+        -2700
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_3",
+      "position": [
+        9700,
+        -2675
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_3",
+      "position": [
+        9725,
+        -2675
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_3",
+      "position": [
+        9725,
+        -2725
+      ]
+    },
+    {
+      "wall_type": "BARREL_4",
+      "position": [
+        9850,
+        -2625
+      ]
+    },
+    {
+      "wall_type": "BARREL_4",
+      "position": [
+        9850,
+        -2650
+      ]
+    },
+    {
+      "wall_type": "BARREL_4",
+      "position": [
+        9800,
+        -2625
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9700,
+        -2775
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9650,
+        -2775
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9425,
+        -2700
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9625,
+        -2775
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_OVEN",
+      "position": [
+        9850,
+        -2775
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        9350,
+        -2900
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_WARDROBE",
+      "position": [
+        9400,
+        -2900
+      ]
+    },
+    {
+      "wall_type": "ALTAR",
+      "position": [
+        -925,
+        -2975
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_2",
+      "position": [
+        -525,
+        -1350
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_3",
+      "position": [
+        -375,
+        -1325
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        -375,
+        -1350
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_4",
+      "position": [
+        -375,
+        -1375
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_1",
+      "position": [
+        -525,
+        -1425
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_6",
+      "position": [
+        -525,
+        -1200
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_7",
+      "position": [
+        -525,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_3",
+      "position": [
+        -375,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_9",
+      "position": [
+        -375,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_8",
+      "position": [
+        -375,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "PATIO_TABLE_3",
+      "position": [
+        -475,
+        -600
+      ]
+    },
+    {
+      "wall_type": "PATIO_TABLE_3",
+      "position": [
+        -475,
+        -675
+      ]
+    },
+    {
+      "wall_type": "PATIO_TABLE_3",
+      "position": [
+        -475,
+        -750
+      ]
+    },
+    {
+      "wall_type": "PATIO_TABLE_2",
+      "position": [
+        -400,
+        -625
+      ]
+    },
+    {
+      "wall_type": "PATIO_TABLE_2",
+      "position": [
+        -400,
+        -700
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_1",
+      "position": [
+        -500,
+        -600
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_1",
+      "position": [
+        -500,
+        -675
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_1",
+      "position": [
+        -425,
+        -700
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_1",
+      "position": [
+        -425,
+        -625
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_3",
+      "position": [
+        -475,
+        -725
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_3",
+      "position": [
+        -450,
+        -650
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_3",
+      "position": [
+        -450,
+        -575
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_3",
+      "position": [
+        -375,
+        -600
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_2",
+      "position": [
+        -350,
+        -625
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_2",
+      "position": [
+        -350,
+        -700
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_2",
+      "position": [
+        -425,
+        -750
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_2",
+      "position": [
+        -425,
+        -600
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_3",
+      "position": [
+        -475,
+        -625
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_3",
+      "position": [
+        -375,
+        -650
+      ]
+    },
+    {
+      "wall_type": "PATIO_CHAIR_3",
+      "position": [
+        -375,
+        -675
       ]
     }
   ],
@@ -78363,21 +77089,7 @@
     {
       "sprite": "DECORATION_GROUND_GRASS",
       "position": [
-        -350,
-        -1075
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
         -300,
-        -1075
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -250,
         -1075
       ]
     },
@@ -78433,28 +77145,7 @@
     {
       "sprite": "DECORATION_GROUND_GRASS",
       "position": [
-        -250,
-        -1125
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
         -225,
-        -1125
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -300,
-        -1125
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -350,
         -1125
       ]
     },
@@ -80218,48 +78909,6 @@
     {
       "sprite": "DECORATION_GROUND_GRASS",
       "position": [
-        -250,
-        -1325
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -250,
-        -1375
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -250,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -300,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -300,
-        -1350
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -300,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
         -300,
         -1250
       ]
@@ -80295,71 +78944,8 @@
     {
       "sprite": "DECORATION_GROUND_GRASS",
       "position": [
-        -325,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
         -350,
         -1250
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -350,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -350,
-        -1350
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -350,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -400,
-        -1375
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -400,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -400,
-        -1325
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -400,
-        -1275
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -400,
-        -1225
       ]
     },
     {
@@ -80394,13 +78980,6 @@
       "sprite": "DECORATION_GROUND_GRASS",
       "position": [
         -425,
-        -1025
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -425,
         -1050
       ]
     },
@@ -80423,34 +79002,6 @@
       "position": [
         -425,
         -1225
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -425,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -400,
-        -1350
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -425,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -425,
-        -1350
       ]
     },
     {
@@ -80724,314 +79275,6 @@
       "position": [
         400,
         -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        -50,
-        -1175
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        0,
-        -1175
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        50,
-        -1175
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        100,
-        -1175
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        150,
-        -1175
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        200,
-        -1175
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        250,
-        -1175
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        250,
-        -1225
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        275,
-        -1275
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        250,
-        -1275
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        250,
-        -1325
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        250,
-        -1375
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        250,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        -75,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        -50,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        -50,
-        -1350
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        -50,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        -50,
-        -1250
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        -50,
-        -1225
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        0,
-        -1225
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        0,
-        -1275
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        0,
-        -1325
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        0,
-        -1375
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        0,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        50,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        100,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        150,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        200,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        200,
-        -1350
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        200,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        200,
-        -1250
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        200,
-        -1225
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        150,
-        -1350
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        150,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        150,
-        -1250
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        100,
-        -1350
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        100,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        100,
-        -1250
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        50,
-        -1350
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        50,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        50,
-        -1250
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        50,
-        -1225
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        100,
-        -1200
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE_GRAY",
-      "position": [
-        150,
-        -1200
       ]
     },
     {
@@ -81485,57 +79728,8 @@
     {
       "sprite": "DECORATION_GROUND_GRASS_EDGE",
       "position": [
-        -325,
-        -1225
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE",
-      "position": [
-        -325,
-        -1125
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE",
-      "position": [
-        -250,
-        -1100
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE",
-      "position": [
-        -225,
-        -1075
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE",
-      "position": [
         -125,
         -1050
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE",
-      "position": [
-        -400,
-        -1025
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE",
-      "position": [
-        -375,
-        -1375
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE",
-      "position": [
-        -425,
-        -1275
       ]
     },
     {
@@ -81583,41 +79777,6 @@
     {
       "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
       "position": [
-        -350,
-        -1100
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
-      "position": [
-        -400,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
-      "position": [
-        -375,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
-      "position": [
-        -325,
-        -1425
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
-      "position": [
-        -275,
-        -1125
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE_2",
-      "position": [
         250,
         -900
       ]
@@ -81653,29 +79812,8 @@
     {
       "sprite": "DECORATION_GROUND_GRASS_EDGE",
       "position": [
-        -350,
-        -1425
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS_EDGE",
-      "position": [
         225,
         -900
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_PEPPLES_2",
-      "position": [
-        -350,
-        -1150
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_PEPPLES_2",
-      "position": [
-        -450,
-        -1400
       ]
     },
     {
@@ -81793,13 +79931,6 @@
     {
       "sprite": "DECORATION_GROUND_PEPPLES_2",
       "position": [
-        -425,
-        -1000
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_PEPPLES_2",
-      "position": [
         600,
         -1250
       ]
@@ -81850,77 +79981,7 @@
       "sprite": "DECORATION_GROUND_GRASS",
       "position": [
         -475,
-        -1200
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -475,
         -1250
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -475,
-        -1300
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -475,
-        -1350
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -475,
-        -1400
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -475,
-        -1450
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -425,
-        -1450
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -375,
-        -1450
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -325,
-        -1450
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -275,
-        -1450
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -225,
-        -1450
       ]
     },
     {
@@ -81935,48 +79996,6 @@
       "position": [
         -150,
         -1450
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -475,
-        -1500
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -425,
-        -1500
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -375,
-        -1500
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -325,
-        -1500
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -275,
-        -1500
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        -225,
-        -1500
       ]
     },
     {
@@ -83588,6 +81607,2442 @@
         -725,
         -2125
       ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_WATER_EDGE_LEFTC",
+      "position": [
+        525,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_WATER",
+      "position": [
+        550,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_WATER_EDGE_RIGHTC",
+      "position": [
+        575,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        250,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        200,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        150,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        100,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        50,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        0,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -50,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -100,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -150,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -200,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -200,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -150,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -100,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -50,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        0,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        50,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        100,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        150,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        200,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        250,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        300,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        350,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        400,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        450,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        500,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        550,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        550,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        600,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        800,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        850,
+        -1600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        675,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        725,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        675,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        725,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -1150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        725,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -950
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -1050
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        750,
+        -550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        675,
+        -500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        700,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        725,
+        -525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        725,
+        -550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        650,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -75,
+        -400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -125,
+        -400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -175,
+        -400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -225,
+        -400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -225,
+        -350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -175,
+        -350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -125,
+        -350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -75,
+        -350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -225,
+        -300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -175,
+        -300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -125,
+        -300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -75,
+        -300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -25,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        25,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        75,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        125,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        175,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        225,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        275,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        325,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        375,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        425,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        475,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        525,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        575,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        625,
+        -325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        550,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        525,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        475,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        500,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        500,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        525,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_EDGE",
+      "position": [
+        475,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_WATER_EDGE_LEFTBC",
+      "position": [
+        525,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS_WATER_EDGE_RIGHTBC",
+      "position": [
+        575,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -300,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -300,
+        -750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -300,
+        -800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -300,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -300,
+        -900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -300,
+        -950
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -450,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -400,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -350,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -300,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -225,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -250,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -175,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -125,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -75,
+        -975
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -75,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -75,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -75,
+        -825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        25,
+        -800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        25,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -25,
+        -675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -75,
+        -650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9250,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9300,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9350,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9400,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9450,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9500,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9575,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9550,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9625,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9675,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9725,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9775,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9825,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9850,
+        -2900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9850,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9800,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9750,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9700,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9650,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9600,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9550,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9525,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9500,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9425,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9450,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9375,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9325,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9275,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9250,
+        -2825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9250,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9250,
+        -2775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9250,
+        -2725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9250,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9300,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9350,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9400,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9450,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9500,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9550,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9600,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9650,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9700,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9750,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9800,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9850,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9850,
+        -2725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9850,
+        -2775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9850,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9300,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9350,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9400,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9450,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9500,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9550,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9600,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9650,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9700,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9750,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9800,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9800,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9750,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9700,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9650,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9600,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9550,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9500,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9450,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9400,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9350,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9300,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9300,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9350,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9400,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9450,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9500,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9625,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9575,
+        -2725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9525,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9675,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9700,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9750,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9800,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9350,
+        -2825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9450,
+        -2775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9375,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9550,
+        -2825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9475,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9675,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9825,
+        -2850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9825,
+        -2725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9650,
+        -2700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9725,
+        -2800
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9700,
+        -2775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9700,
+        -2725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9675,
+        -2675
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9650,
+        -2650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9625,
+        -2625
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9250,
+        -2875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9275,
+        -2875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9275,
+        -2825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9300,
+        -2825
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9300,
+        -2775
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9325,
+        -2750
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9325,
+        -2725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONEBRIDGE",
+      "position": [
+        9350,
+        -2725
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -550,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -550,
+        -1200
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -550,
+        -1150
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -550,
+        -1100
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -550,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -500,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -500,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -500,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -500,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -550,
+        -1300
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -500,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -400,
+        -1250
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -375,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -350,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -300,
+        -1275
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -1425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -225,
+        -1425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -225,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -225,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -575,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -575,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -575,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -575,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -525,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -375,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -350,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -300,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -225,
+        -1475
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -225,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -275,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -325,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -375,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -475,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -500,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -525,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -575,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -625,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -575,
+        -1550
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -525,
+        -1425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -525,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -525,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -375,
+        -1425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -325,
+        -1425
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -325,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -325,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -425,
+        -1025
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -350,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -300,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -325,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1125
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -250,
+        -1075
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -550,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -600,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -650,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -700,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -750,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -800,
+        -700
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -700,
+        -650
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -700,
+        -600
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -475,
+        -975
+      ]
     }
   ],
   "portals": [
@@ -83659,6 +84114,27 @@
       "position": [
         9325,
         2175
+      ]
+    },
+    {
+      "portal_id": "BETHILDAS_ELVEN_BASE",
+      "position": [
+        525,
+        -1525
+      ]
+    },
+    {
+      "portal_id": "JIMMYS_JOHN_REMOTE",
+      "position": [
+        9550,
+        -2925
+      ]
+    },
+    {
+      "portal_id": "BETHILDAS_ELVEN_BASE_REMOTE",
+      "position": [
+        -950,
+        -3000
       ]
     }
   ],

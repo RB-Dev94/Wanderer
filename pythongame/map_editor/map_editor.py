@@ -56,10 +56,13 @@ MISC_ENTITIES: List[MapEditorWorldEntity] = \
         MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_STONEBRIDGE),
         MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_STONE_GRAY),
         MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_STONE),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_WOOD),
         MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_WATER),
         MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS),
         MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS_WATER_EDGE_LEFTC),
         MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS_WATER_EDGE_RIGHTC),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS_WATER_EDGE_LEFTBC),
+        MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS_WATER_EDGE_RIGHTBC),
         MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS_EDGE),
         MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_GRASS_EDGE_2),
         MapEditorWorldEntity.decoration(Sprite.DECORATION_GROUND_PEPPLES),
@@ -87,7 +90,7 @@ ENTITIES_BY_TYPE = {
     EntityTab.MISC: MISC_ENTITIES
 }
 
-SCREEN_SIZE = (1200, 750)
+SCREEN_SIZE = (1200, 950)
 CAMERA_SIZE = (1200, 550)
 
 # The choice of hero shouldn't matter in the map editor, as we only store its position in the map file

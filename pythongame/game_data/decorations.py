@@ -35,6 +35,9 @@ def _register_ground_decorations():
     register_entity_sprite_map(Sprite.DECORATION_GROUND_STONEBRIDGE, sprite_sheet_human1, original_sprite_size, scaled_sprite_size,
                                 {Direction.DOWN: [(1, 9)]}, (0, 0))
     
+    register_entity_sprite_map(Sprite.DECORATION_GROUND_WOOD, sprite_sheet_human3, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, 0))
+
     register_entity_sprite_map(Sprite.DECORATION_GROUND_STONE, sprite_sheet, original_sprite_size, scaled_sprite_size,
                                indices_by_dir, (0, 0))
 
@@ -49,6 +52,12 @@ def _register_ground_decorations():
 
     register_entity_sprite_map(Sprite.DECORATION_GROUND_GRASS_WATER_EDGE_LEFTC, sprite_sheet_human4, original_sprite_size, scaled_sprite_size,
                                 {Direction.DOWN: [(0, 7)]}, (0, 0))
+
+    register_entity_sprite_map(Sprite.DECORATION_GROUND_GRASS_WATER_EDGE_LEFTBC, sprite_sheet_human4, original_sprite_size, scaled_sprite_size,
+                                {Direction.DOWN: [(0, 8)]}, (0, 0))
+
+    register_entity_sprite_map(Sprite.DECORATION_GROUND_GRASS_WATER_EDGE_RIGHTBC, sprite_sheet_human4, original_sprite_size, scaled_sprite_size,
+                                {Direction.DOWN: [(1, 8)]}, (0, 0))
 
     register_entity_sprite_map(Sprite.DECORATION_GROUND_GRASS_WATER_EDGE_RIGHTC, sprite_sheet_human4, original_sprite_size, scaled_sprite_size,
                                 {Direction.DOWN: [(1, 7)]}, (0, 0))
