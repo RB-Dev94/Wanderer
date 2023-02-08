@@ -48,13 +48,17 @@ def register_portals():
     original_sprite_size = (28, 62)
     original_sprite_size_2 = (32, 23)
     original_sprite_size_3 = (33, 69)
+    original_sprite_size_4 = (90, 50)
     scaled_sprite_size = (46, 100)
     scaled_sprite_size_2 = (30, 30)
     scaled_sprite_size_3 = (60, 110)
+    scaled_sprite_size_4 = (80, 60)
     indices_by_dir = {Direction.DOWN: [(0, 0)]}
     indices_by_dir_2 = {Direction.DOWN: [(1.95, 3.3)]}
+    indices_by_dir_3 = {Direction.DOWN: [(2.8, 14)]}
     sprite_position_relative_to_entity = (-4, -54)
     sprite_position_relative_to_entity_2 = (32, 10)
+    sprite_position_relative_to_entity_3 = (-6,0)
 
 # TOWN NEIGHBOR JIMMYS JOHN
     register_entity_sprite_map(
@@ -64,6 +68,15 @@ def register_portals():
         scaled_sprite_size_3,
         indices_by_dir_2,
         sprite_position_relative_to_entity)
+
+    register_entity_sprite_map(
+        Sprite.PORTAL_TOWN_JIMMYS_JOHN_REMOTE,
+        SpriteSheet("resources/graphics/town_village.png"),
+        original_sprite_size_4,
+        scaled_sprite_size_4,
+        indices_by_dir_3,
+        sprite_position_relative_to_entity_3)
+    
 # BETHILDAS WATER TOWER SKULL PORTAL TO ELVEN CASTLE
     register_entity_sprite_map(
         Sprite.PORTAL_BETHILDAS_ELVEN,
@@ -121,10 +134,10 @@ def register_portals():
     
     warp_red_barons_fortress = "Red Baron's Fortress"
 
-    register_portal_data(PortalId.JIMMYS_JOHN,
-                         _data(True, PortalId.JIMMYS_JOHN_REMOTE, Sprite.PORTAL_TOWN_JIMMYS_JOHN, "JIMMYS JOHN"))
     register_portal_data(PortalId.JIMMYS_JOHN_REMOTE,
                          _data(True, PortalId.JIMMYS_JOHN, Sprite.PORTAL_TOWN_JIMMYS_JOHN, "Heim"))
+    register_portal_data(PortalId.JIMMYS_JOHN,
+                         _data(True, PortalId.JIMMYS_JOHN_REMOTE, Sprite.PORTAL_TOWN_JIMMYS_JOHN_REMOTE, "JIMMYS JOHN"))
     register_portal_data(PortalId.BETHILDAS_ELVEN_BASE,
                          _data(True, PortalId.BETHILDAS_ELVEN_BASE_REMOTE, Sprite.PORTAL_BETHILDAS_ELVEN, "To the Castle of Huldra"))
     register_portal_data(PortalId.BETHILDAS_ELVEN_BASE_REMOTE,

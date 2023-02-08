@@ -32,6 +32,9 @@ def register_walls():
     _register_home_wall_cottage_7()
     _register_home_wall_cottage_8()
     _register_home_wall_cottage_9()
+    _register_home_wall_lg_cottage_1()
+    _register_home_wall_lg_cottage_2()
+    _register_home_wall_lg_cottage_3()
     _register_home_wall_window_open()
     _register_home_wall_window_planter()
     _register_wall_watertower()
@@ -345,6 +348,36 @@ def _register_home_wall_cottage_9():
     register_entity_sprite_map(sprite, sprite_sheet_tileset2, original_sprite_size, scaled_sprite_size,
                                indices_by_dir, (0, -25))
     register_wall_data(WallType.HOME_WALL_COTTAGE_9, WallData(sprite, (80, 20)))
+
+def _register_home_wall_lg_cottage_1():
+    sprite = Sprite.HOME_WALL_LG_COTTAGE_1
+    sprite_sheet_tileset2 = SpriteSheet("resources/graphics/town_village.png")
+    original_sprite_size = (300, 75)
+    scaled_sprite_size = (300, 90)
+    indices_by_dir = {Direction.DOWN: [(1.2, 10)]}
+    register_entity_sprite_map(sprite, sprite_sheet_tileset2, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -20))
+    register_wall_data(WallType.HOME_WALL_LG_COTTAGE_1, WallData(sprite, (270, 30)))
+
+def _register_home_wall_lg_cottage_2():
+    sprite = Sprite.HOME_WALL_LG_COTTAGE_2
+    sprite_sheet_tileset2 = SpriteSheet("resources/graphics/town_village.png")
+    original_sprite_size = (300, 75)
+    scaled_sprite_size = (300, 90)
+    indices_by_dir = {Direction.DOWN: [(1.2, 11)]}
+    register_entity_sprite_map(sprite, sprite_sheet_tileset2, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -20))
+    register_wall_data(WallType.HOME_WALL_LG_COTTAGE_2, WallData(sprite, (270, 30)))
+    
+def _register_home_wall_lg_cottage_3():
+    sprite = Sprite.HOME_WALL_LG_COTTAGE_3
+    sprite_sheet_tileset2 = SpriteSheet("resources/graphics/town_village.png")
+    original_sprite_size = (175, 110)
+    scaled_sprite_size = (300, 110)
+    indices_by_dir = {Direction.DOWN: [(0.43, .17)]}
+    register_entity_sprite_map(sprite, sprite_sheet_tileset2, original_sprite_size, scaled_sprite_size,
+                               indices_by_dir, (0, -40))
+    register_wall_data(WallType.HOME_WALL_LG_COTTAGE_3, WallData(sprite, (270, 70)))
 
 # WINDOWS
 
