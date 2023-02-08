@@ -10,6 +10,7 @@ from pythongame.core.visual_effects import create_teleport_effects
 from pythongame.core.world_entity import WorldEntity
 
 PORTAL_SIZE = (42, 46)
+PORTAL_SIZE_SKULL = (10, 10)
 BUFF_TYPE = BuffType.TELEPORTING_WITH_PORTAL
 PORTAL_DELAY = Millis(600)
 
@@ -45,9 +46,32 @@ class BeingTeleported(AbstractBuffEffect):
 
 def register_portals():
     original_sprite_size = (28, 62)
+    original_sprite_size_2 = (32, 23)
+    original_sprite_size_3 = (33, 69)
     scaled_sprite_size = (46, 100)
+    scaled_sprite_size_2 = (30, 30)
+    scaled_sprite_size_3 = (60, 110)
     indices_by_dir = {Direction.DOWN: [(0, 0)]}
+    indices_by_dir_2 = {Direction.DOWN: [(1.95, 3.3)]}
     sprite_position_relative_to_entity = (-4, -54)
+    sprite_position_relative_to_entity_2 = (32, 10)
+
+# TOWN NEIGHBOR JIMMYS JOHN
+    register_entity_sprite_map(
+        Sprite.PORTAL_TOWN_JIMMYS_JOHN,
+        SpriteSheet("resources/graphics/human_tileset2.png"),
+        original_sprite_size_3,
+        scaled_sprite_size_3,
+        indices_by_dir_2,
+        sprite_position_relative_to_entity)
+# BETHILDAS WATER TOWER SKULL PORTAL TO ELVEN CASTLE
+    register_entity_sprite_map(
+        Sprite.PORTAL_BETHILDAS_ELVEN,
+        SpriteSheet("resources/graphics/skeleton_sprite_map.png"),
+        original_sprite_size_2,
+        scaled_sprite_size_2,
+        indices_by_dir,
+        sprite_position_relative_to_entity_2)
     register_entity_sprite_map(
         Sprite.PORTAL_DISABLED,
         SpriteSheet("resources/graphics/statue.png"),
@@ -92,7 +116,19 @@ def register_portals():
         sprite_position_relative_to_entity)
 
     warp_home = "Home"
+
+    warp_vanaheim = "Vanaheim"
+    
     warp_red_barons_fortress = "Red Baron's Fortress"
+
+    register_portal_data(PortalId.JIMMYS_JOHN,
+                         _data(True, PortalId.JIMMYS_JOHN_REMOTE, Sprite.PORTAL_TOWN_JIMMYS_JOHN, "JIMMYS JOHN"))
+    register_portal_data(PortalId.JIMMYS_JOHN_REMOTE,
+                         _data(True, PortalId.JIMMYS_JOHN, Sprite.PORTAL_TOWN_JIMMYS_JOHN, "Heim"))
+    register_portal_data(PortalId.BETHILDAS_ELVEN_BASE,
+                         _data(True, PortalId.BETHILDAS_ELVEN_BASE_REMOTE, Sprite.PORTAL_BETHILDAS_ELVEN, "To the Castle of Huldra"))
+    register_portal_data(PortalId.BETHILDAS_ELVEN_BASE_REMOTE,
+                         _data(True, PortalId.BETHILDAS_ELVEN_BASE, Sprite.PORTAL_BETHILDAS_ELVEN, "To Bethildas house"))
     register_portal_data(PortalId.GOBLIN_HIDEOUT_BASE,
                          _data(False, PortalId.GOBLIN_HIDEOUT_REMOTE, Sprite.PORTAL_DISABLED, "Goblin Hideout"))
     register_portal_data(PortalId.GOBLIN_HIDEOUT_REMOTE,

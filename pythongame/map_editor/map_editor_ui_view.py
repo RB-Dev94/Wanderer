@@ -198,7 +198,7 @@ class MapEditorView:
         self._setup_ui_components()
 
     def _setup_ui_components(self):
-        icon_space = 5
+        icon_space = 2
         x_1 = 165
         y_2 = 40
         self.button_delete_entities = self._create_map_editor_icon(
@@ -208,7 +208,7 @@ class MapEditorView:
             Rect(20 + MAP_EDITOR_UI_ICON_SIZE[0] + icon_space, y_2, MAP_EDITOR_UI_ICON_SIZE[0],
                  MAP_EDITOR_UI_ICON_SIZE[1]), 'Z', None, UiIconSprite.MAP_EDITOR_RECYCLING, 0, None)
         self.entity_icons_by_type = {}
-        num_icons_per_row = 23
+        num_icons_per_row = 25
         for entity_type in EntityTab:
             self.entity_icons_by_type[entity_type] = []
             for i, entity in enumerate(self._entities_by_type[entity_type]):

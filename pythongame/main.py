@@ -95,7 +95,7 @@ class Main:
 
         print("Available display modes: " + str(pygame.display.list_modes()))
 
-        pygame.display.set_caption('2nd Life')
+        pygame.display.set_caption('WANDERER')
         self.fullscreen = False
         self.pygame_screen = self.setup_screen()
         images_by_sprite = load_images_by_sprite(ENTITY_SPRITE_INITIALIZERS)

@@ -72,12 +72,12 @@ class ActionChangeDialogOption:
         self.index_delta = index_delta
 
 
-PYGAME_MOVEMENT_KEYS = [pygame.K_LEFT, pygame.K_RIGHT, pygame.K_UP, pygame.K_DOWN]
+PYGAME_MOVEMENT_KEYS = [pygame.K_j, pygame.K_l, pygame.K_i, pygame.K_k]
 DIRECTION_BY_PYGAME_MOVEMENT_KEY = {
-    pygame.K_LEFT: Direction.LEFT,
-    pygame.K_RIGHT: Direction.RIGHT,
-    pygame.K_UP: Direction.UP,
-    pygame.K_DOWN: Direction.DOWN
+    pygame.K_j: Direction.LEFT,
+    pygame.K_l: Direction.RIGHT,
+    pygame.K_i: Direction.UP,
+    pygame.K_k: Direction.DOWN
 }
 
 PYGAME_MOUSE_LEFT_BUTTON = 1
@@ -88,9 +88,9 @@ def get_dialog_actions(events) -> List[Any]:
     actions = []
     for event in events:
         if event.type == pygame.KEYDOWN:
-            if event.key == pygame.K_LEFT or event.key == pygame.K_UP:
+            if event.key == pygame.K_j or event.key == pygame.K_i:
                 actions.append(ActionChangeDialogOption(-1))
-            elif event.key == pygame.K_RIGHT or event.key == pygame.K_DOWN:
+            elif event.key == pygame.K_l or event.key == pygame.K_k:
                 actions.append(ActionChangeDialogOption(1))
             elif event.key == pygame.K_SPACE:
                 actions.append(ActionPressSpaceKey())
