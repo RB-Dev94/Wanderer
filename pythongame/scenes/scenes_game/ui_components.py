@@ -619,7 +619,7 @@ class ControlsWindow(UiWindow):
         self._ui_render.text(self._font_header, "Basic controls", (x, y), (220, 220, 250))
         y += 24
         text_basic_controls = split_text_into_lines(
-            "Move with the arrow-keys. Attack with 'Q'. Use potions with the number-keys ('1' through '5').", 47)
+            "Move with the J K L I -keys. Attack with 'Q'. Use potions with the number-keys ('1' through '5').", 47)
         for line in text_basic_controls:
             self._ui_render.text(self._font_details, line, (x, y))
             y += 16

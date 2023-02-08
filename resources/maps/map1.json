@@ -38861,13 +38861,6 @@
     {
       "wall_type": "PLANT_TREE_PALM",
       "position": [
-        -150,
-        -1400
-      ]
-    },
-    {
-      "wall_type": "PLANT_TREE_PALM",
-      "position": [
         350,
         -1075
       ]
@@ -39622,13 +39615,6 @@
       ]
     },
     {
-      "wall_type": "BOX_EMPTY",
-      "position": [
-        25,
-        -825
-      ]
-    },
-    {
       "wall_type": "BOX_FRUIT",
       "position": [
         -25,
@@ -39638,50 +39624,8 @@
     {
       "wall_type": "BOX_EMPTY",
       "position": [
-        25,
-        -875
-      ]
-    },
-    {
-      "wall_type": "BOX_FISH",
-      "position": [
-        -25,
-        -875
-      ]
-    },
-    {
-      "wall_type": "BOX_FISH",
-      "position": [
-        -25,
-        -900
-      ]
-    },
-    {
-      "wall_type": "BOX_EMPTY",
-      "position": [
         75,
         -850
-      ]
-    },
-    {
-      "wall_type": "BASKET_FRUIT",
-      "position": [
-        -25,
-        -925
-      ]
-    },
-    {
-      "wall_type": "BASKET_FRUIT",
-      "position": [
-        25,
-        -900
-      ]
-    },
-    {
-      "wall_type": "BASKET_FRUIT",
-      "position": [
-        75,
-        -800
       ]
     },
     {
@@ -39702,13 +39646,6 @@
       "wall_type": "WALL_WATER",
       "position": [
         -900,
-        -1775
-      ]
-    },
-    {
-      "wall_type": "WALL_WATER",
-      "position": [
-        -875,
         -1775
       ]
     },
@@ -40098,108 +40035,10 @@
       ]
     },
     {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9600,
-        -2900
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9450,
-        -2900
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9700,
-        -2900
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9250,
-        -2900
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9250,
-        -2575
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9350,
-        -2575
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9450,
-        -2575
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9550,
-        -2575
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9650,
-        -2575
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9750,
-        -2575
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9800,
-        -2575
-      ]
-    },
-    {
       "wall_type": "HOME_WALL_BED_QUEEN",
       "position": [
         9275,
         -2900
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9250,
-        -2700
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9350,
-        -2700
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9800,
-        -2775
       ]
     },
     {
@@ -40221,13 +40060,6 @@
       "position": [
         9350,
         -2675
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9800,
-        -2900
       ]
     },
     {
@@ -40294,45 +40126,10 @@
       ]
     },
     {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9700,
-        -2775
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9650,
-        -2775
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9425,
-        -2700
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9625,
-        -2775
-      ]
-    },
-    {
       "wall_type": "HOME_WALL_OVEN",
       "position": [
         9850,
         -2775
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        9350,
-        -2900
       ]
     },
     {
@@ -40354,27 +40151,6 @@
       "position": [
         -525,
         -1350
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_3",
-      "position": [
-        -375,
-        -1325
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_5",
-      "position": [
-        -375,
-        -1350
-      ]
-    },
-    {
-      "wall_type": "HOME_WALL_COTTAGE_4",
-      "position": [
-        -375,
-        -1375
       ]
     },
     {
@@ -40557,6 +40333,188 @@
       "position": [
         -375,
         -675
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_POINTY_SE",
+      "position": [
+        -50,
+        -650
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        -25,
+        -650
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        0,
+        -650
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        25,
+        -650
+      ]
+    },
+    {
+      "wall_type": "WALL_DIRECTIONAL_S",
+      "position": [
+        50,
+        -650
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_5",
+      "position": [
+        -375,
+        -1325
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_COTTAGE_4",
+      "position": [
+        -375,
+        -1350
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_LG_COTTAGE_1",
+      "position": [
+        -225,
+        -1000
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_LG_COTTAGE_2",
+      "position": [
+        -225,
+        -1025
+      ]
+    },
+    {
+      "wall_type": "HOME_WALL_LG_COTTAGE_3",
+      "position": [
+        -225,
+        -1100
+      ]
+    },
+    {
+      "wall_type": "BOX_EMPTY",
+      "position": [
+        0,
+        -950
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -100,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -75,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        -25,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        25,
+        -1125
+      ]
+    },
+    {
+      "wall_type": "PLANT_TREE_PALM",
+      "position": [
+        0,
+        -1150
+      ]
+    },
+    {
+      "wall_type": "PILLOW",
+      "position": [
+        50,
+        -950
+      ]
+    },
+    {
+      "wall_type": "BOX_FRUIT",
+      "position": [
+        -25,
+        -850
+      ]
+    },
+    {
+      "wall_type": "BOX_FRUIT",
+      "position": [
+        -25,
+        -875
+      ]
+    },
+    {
+      "wall_type": "BOX_EMPTY",
+      "position": [
+        25,
+        -800
+      ]
+    },
+    {
+      "wall_type": "PILLOWS_2",
+      "position": [
+        75,
+        -825
+      ]
+    },
+    {
+      "wall_type": "BASKET_EMPTY",
+      "position": [
+        -50,
+        -950
+      ]
+    },
+    {
+      "wall_type": "BASKET_EMPTY",
+      "position": [
+        -25,
+        -925
+      ]
+    },
+    {
+      "wall_type": "BASKET_FRUIT",
+      "position": [
+        25,
+        -925
+      ]
+    },
+    {
+      "wall_type": "BASKET_FRUIT",
+      "position": [
+        75,
+        -900
+      ]
+    },
+    {
+      "wall_type": "BOX_EMPTY",
+      "position": [
+        -125,
+        -800
       ]
     }
   ],
@@ -54418,20 +54376,6 @@
       "position": [
         -100,
         -800
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE",
-      "position": [
-        -100,
-        -850
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE",
-      "position": [
-        -100,
-        -900
       ]
     },
     {
@@ -76977,13 +76921,6 @@
     {
       "sprite": "DECORATION_GROUND_GRASS",
       "position": [
-        25,
-        -850
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
         75,
         -850
       ]
@@ -77741,13 +77678,6 @@
       "sprite": "DECORATION_GROUND_GRASS",
       "position": [
         75,
-        -875
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_GRASS",
-      "position": [
-        25,
         -875
       ]
     },
@@ -82788,13 +82718,6 @@
       "sprite": "DECORATION_GROUND_STONE",
       "position": [
         -75,
-        -875
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONE",
-      "position": [
-        -75,
         -825
       ]
     },
@@ -83494,20 +83417,6 @@
     {
       "sprite": "DECORATION_GROUND_STONEBRIDGE",
       "position": [
-        9650,
-        -2650
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONEBRIDGE",
-      "position": [
-        9625,
-        -2625
-      ]
-    },
-    {
-      "sprite": "DECORATION_GROUND_STONEBRIDGE",
-      "position": [
         9250,
         -2875
       ]
@@ -84043,6 +83952,279 @@
         -475,
         -975
       ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -625,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -625,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -625,
+        -1400
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -625,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -600,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -625,
+        -1350
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -750,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -700,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -675,
+        -1525
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -650,
+        -1575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -600,
+        -1575
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -100,
+        -1450
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -100,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -50,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        0,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        50,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        100,
+        -1500
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -350,
+        -1375
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -375,
+        -1325
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -50,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        0,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        -50,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        50,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        100,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        150,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        200,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        250,
+        -1175
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        0,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        50,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        100,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        150,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        200,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_GRASS",
+      "position": [
+        250,
+        -1225
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -75,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_BOXES1",
+      "position": [
+        -125,
+        -875
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_BOXES1",
+      "position": [
+        -125,
+        -850
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_STONE",
+      "position": [
+        -125,
+        -925
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_BOXES4",
+      "position": [
+        25,
+        -900
+      ]
+    },
+    {
+      "sprite": "DECORATION_GROUND_BOXES4",
+      "position": [
+        25,
+        -875
+      ]
     }
   ],
   "portals": [
@@ -84135,6 +84317,20 @@
       "position": [
         -950,
         -3000
+      ]
+    },
+    {
+      "portal_id": "JIMMYS_JOHN",
+      "position": [
+        -375,
+        -1300
+      ]
+    },
+    {
+      "portal_id": "JIMMYS_JOHN",
+      "position": [
+        -100,
+        -1000
       ]
     }
   ],

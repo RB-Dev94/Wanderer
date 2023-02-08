@@ -94,7 +94,7 @@ or to edit a specific map
 
 ## Gameplay basics
 
-* Use arrow keys to move
+* Use J K L I to move
 * Use keys shown in UI to use abilities and consumables
 * Use spacebar to interact with NPCs and other entities in the environment
 * Press 'Enter' to pause the game
