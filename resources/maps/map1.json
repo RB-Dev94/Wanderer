@@ -16,14 +16,6 @@
         2500
       ],
       "item_name": "Gold Nugget"
-    },
-    {
-      "item_id": "TORN_DOCUMENT~~",
-      "position": [
-        -175,
-        -775
-      ],
-      "item_name": "Torn document"
     }
   ],
   "money_piles_on_ground": [],
@@ -84387,6 +84379,12 @@
         7675,
         3450
       ]
+    },
+    {
+      "position": [
+        -250,
+        -750
+      ]
     }
   ],
   "dungeon_entrances": [
@@ -84394,6 +84392,12 @@
       "position": [
         -50,
         -750
+      ]
+    },
+    {
+      "position": [
+        -325,
+        -725
       ]
     }
   ]
