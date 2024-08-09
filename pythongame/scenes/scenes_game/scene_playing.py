@@ -160,6 +160,16 @@ class PlayingScene(AbstractScene):
                             self.game_engine.interact_with_shrine(ready_entity)
                         elif isinstance(ready_entity, DungeonEntrance):
                             has_key = self.game_state.player_state.item_inventory.has_item_in_inventory(
+                                plain_item_id(ItemType.PORTAL_KEY_CULT))
+                            if has_key:
+                                entering_dungeon_scene = self.scene_factory.switching_game_world(
+                                    self.game_engine, self.character_file, self.total_time_played_on_character,
+                                    self._create_dungeon_engine_and_behavior)
+                                return SceneTransition(entering_dungeon_scene)
+                            else:
+                                self.ui_view.info_message.set_message("Invitation only I'm afraid!")
+                        elif isinstance(ready_entity, DungeonEntrance):
+                            has_key = self.game_state.player_state.item_inventory.has_item_in_inventory(
                                 plain_item_id(ItemType.PORTAL_KEY))
                             if has_key:
                                 entering_dungeon_scene = self.scene_factory.switching_game_world(

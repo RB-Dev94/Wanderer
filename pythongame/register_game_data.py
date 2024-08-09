@@ -94,6 +94,8 @@ from pythongame.game_data.items.item_orb_of_life import register_orb_of_life_ite
 from pythongame.game_data.items.item_orb_of_the_magi import register_orb_of_the_magi_item
 from pythongame.game_data.items.item_orb_of_wisdom import register_orb_of_wisdom_item
 from pythongame.game_data.items.item_portal_key import register_portal_key_item
+# First test for new portal key - will be used to send players to new maps
+from pythongame.game_data.items.item_portal_key_cult import register_portal_key_cult_item
 from pythongame.game_data.items.item_practice_sword import register_practice_sword_item
 from pythongame.game_data.items.item_quest_key import register_quest_key_item
 from pythongame.game_data.items.item_ring_of_power import register_ring_of_power_item
@@ -245,6 +247,8 @@ def register_all_game_data():
     register_quest_key_item()
     register_corrupted_orb_item()
     register_portal_key_item()
+    register_portal_key_cult_item()
+
 
     register_wooden_sword_item()
     register_druids_ring_item()
