@@ -55,7 +55,7 @@ class NpcMind(AbstractNpcMind):
         super().__init__(global_path_finder)
         self._attack_interval = 1000
         self._time_since_attack = self._attack_interval
-        self._update_path_interval = 900
+        self._update_path_interval = 300
         self._time_since_updated_path = random.randint(0, self._update_path_interval)
         self.pathfinder = NpcPathfinder(global_path_finder)
         self.next_waypoint = None
@@ -140,16 +140,16 @@ def register_summon_scroll():
     summoned_npc_type = NpcType.PLAYER_SUMMON_DRAGON
     summon_sprite = Sprite.PLAYER_SUMMON_DRAGON
 
-    health_regen = 0.6
-    move_speed = 0.14
-    health = 28
+    health_regen = 0.2
+    move_speed = 0.22
+    health = 2
     npc_data = NpcData.player_summon(summon_sprite, (32, 32), health, health_regen, move_speed)
     register_npc_data(summoned_npc_type, npc_data)
     register_npc_behavior(summoned_npc_type, NpcMind)
 
     summon_sprite_sheet = SpriteSheet("resources/graphics/monsters_spritesheet.png")
     summon_original_size = (32, 32)
-    summon_scaled_sprite_size = (52, 52)
+    summon_scaled_sprite_size = (40, 33)
     summon_indices_by_dir = {
         Direction.DOWN: [(x, 0) for x in range(9, 12)],
         Direction.LEFT: [(x, 1) for x in range(9, 12)],
