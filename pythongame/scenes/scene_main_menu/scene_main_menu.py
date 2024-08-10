@@ -33,9 +33,9 @@ class MainMenuScene(AbstractScene):
     def handle_user_input(self, events: List[Any]):
         for event in events:
             if event.type == pygame.KEYDOWN:
-                if event.key == pygame.K_j or event.key == pygame.K_i:
+                if event.key == pygame.K_LEFT or event.key == pygame.K_UP:
                     self._change_option(-1)
-                elif event.key == pygame.K_l or event.key == pygame.K_k:
+                elif event.key == pygame.K_RIGHT or event.key == pygame.K_DOWN:
                     self._change_option(1)
                 elif event.key == pygame.K_RETURN or event.key == pygame.K_SPACE:
                     return self._confirm_option()

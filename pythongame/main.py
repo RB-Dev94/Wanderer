@@ -29,8 +29,8 @@ from pythongame.scenes.scenes_game.game_ui_view import GameUiView, UI_ICON_SIZE,
 from pythongame.scenes.scenes_game.scene_playing import PlayingScene
 
 ABILITY_KEY_LABELS = ["Q", "W", "E", "R", "T"]
-SCREEN_SIZE = (800, 600)  # If this is not a supported resolution, performance takes a big hit
-CAMERA_SIZE = (800, 430)
+SCREEN_SIZE = (900, 700)  # If this is not a supported resolution, performance takes a big hit
+CAMERA_SIZE = (900, 530)
 
 register_all_game_data()
 

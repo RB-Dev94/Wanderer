@@ -10,6 +10,8 @@ class WorldEntity:
     def __init__(self, pos: Tuple[int, int], size: Tuple[int, int], sprite: Sprite, direction=Direction.LEFT, speed=0):
         self.x: int = pos[0]
         self.y: int = pos[1]
+        self.w: int = size[0]  # width
+        self.h: int = size[1]  # height
         self.sprite: Sprite = sprite
         self.direction: Direction = direction
         self._speed = speed
@@ -22,7 +24,7 @@ class WorldEntity:
         self.view_z = 0  # increasing Z values = moving into the screen
         self.movement_changed: Observable = None  # space optimization: Only allocate when needed (i.e. for player entity)
         self.position_changed: Observable = None  # space optimization: Only allocate when needed (i.e. for player entity)
-
+        
     def set_moving_in_dir(self, direction: Direction):
         if direction is None:
             raise Exception("Need to provide a valid direciton to move in")
